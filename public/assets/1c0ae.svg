@@ -1,0 +1,24 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="25.0904" height="25.0852" viewBox="0 0 25.0904 25.0852" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon" filter="url(#filter0_d_0_135)">
+<path id="gradient" d="M16.8436 10.1907C16.0926 9.9124 15.536 9.65508 15.0896 9.36624C14.5119 8.99863 14.0918 8.57851 13.7242 8.00084C13.4406 7.55446 13.178 6.99254 12.8997 6.24682C12.8472 6.09453 12.7054 6 12.5478 6C12.3903 6 12.2485 6.09453 12.196 6.24682C11.9177 6.99779 11.6603 7.55446 11.3715 8.00084C11.0039 8.57851 10.5785 8.99863 10.0008 9.36624C9.55446 9.64982 8.99254 9.9124 8.24682 10.1907C8.09453 10.2432 8 10.385 8 10.5426C8 10.7001 8.09453 10.8419 8.24682 10.8944C8.99779 11.1675 9.55446 11.4301 10.0008 11.7189C10.5785 12.0865 10.9986 12.5067 11.3715 13.0843C11.6551 13.536 11.9177 14.0926 12.196 14.8384C12.2538 14.9906 12.3903 15.0852 12.5478 15.0852C12.7054 15.0852 12.8472 14.9854 12.8997 14.8384C13.178 14.0874 13.4353 13.5307 13.7242 13.0843C14.0918 12.5067 14.5119 12.0865 15.0896 11.7189C15.5412 11.4353 16.0979 11.1728 16.8436 10.8944C16.9959 10.8367 17.0904 10.7001 17.0904 10.5426C17.0904 10.385 16.9906 10.2432 16.8436 10.1907Z" fill="url(#paint0_radial_0_135)"/>
+</g>
+<defs>
+<filter id="filter0_d_0_135" x="-1.45479" y="-1.45741" width="28" height="28" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0745098 0 0 0 0 0 0 0 0 0 0.196078 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_135"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_135" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_0_135" cx="0" cy="0" r="1" gradientTransform="matrix(-8.68457 5.90015 -38.3057 -24.3426 16.6934 7.19141)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF5252"/>
+<stop offset="0.25" stop-color="#FF1F88"/>
+<stop offset="0.5" stop-color="#D414D4"/>
+<stop offset="0.75" stop-color="#8B0DFF"/>
+<stop offset="1" stop-color="#4C00FF"/>
+</radialGradient>
+</defs>
+</svg>
